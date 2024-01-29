@@ -1,0 +1,4 @@
+﻿  ArrayOfObjectSearchSortReverseMInMax.cpp
+C:\Users\Veni\source\repos\ArrayOfObjectSearchSortReverseMInMax\ArrayOfObjectSearchSortReverseMInMax\ArrayOfObjectSearchSortReverseMInMax.cpp(41,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Veni\source\repos\ArrayOfObjectSearchSortReverseMInMax\ArrayOfObjectSearchSortReverseMInMax\ArrayOfObjectSearchSortReverseMInMax.cpp(43,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  ArrayOfObjectSearchSortReverseMInMax.vcxproj -> C:\Users\Veni\source\repos\ArrayOfObjectSearchSortReverseMInMax\x64\Debug\ArrayOfObjectSearchSortReverseMInMax.exe
