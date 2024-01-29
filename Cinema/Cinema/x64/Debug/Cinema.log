@@ -1,0 +1,104 @@
+﻿  Cinema.cpp
+  Hall.cpp
+  main.cpp
+C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\Screening.h(7,12): error C2061: syntax error: identifier 'string'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\Screening.h(9,20): error C2061: syntax error: identifier 'string'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\Screening.h(12,9): error C3646: 'getMovieName': unknown override specifier
+  (compiling source file 'main.cpp')
+  
+C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\Screening.h(12,21): error C2059: syntax error: '('
+  (compiling source file 'main.cpp')
+  
+C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\Screening.h(12,23): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\Screening.h(19,9): error C3646: 'movieName': unknown override specifier
+  (compiling source file 'main.cpp')
+  
+C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\Screening.h(19,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\main.cpp(8,18): error C2661: 'Screening::Screening': no overloaded function takes 2 arguments
+  C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\main.cpp(8,18):
+  while trying to match the argument list '(const char [10], int)'
+  
+C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\main.cpp(9,18): error C2661: 'Screening::Screening': no overloaded function takes 2 arguments
+  C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\main.cpp(9,18):
+  while trying to match the argument list '(const char [14], int)'
+  
+C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\main.cpp(22,18): error C2661: 'Screening::Screening': no overloaded function takes 2 arguments
+  C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\main.cpp(22,18):
+  while trying to match the argument list '(const char [13], int)'
+  
+C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\main.cpp(23,18): error C2661: 'Screening::Screening': no overloaded function takes 2 arguments
+  C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\main.cpp(23,18):
+  while trying to match the argument list '(const char [7], int)'
+  
+C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\main.cpp(33,18): error C2661: 'Screening::Screening': no overloaded function takes 2 arguments
+  C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\main.cpp(33,18):
+  while trying to match the argument list '(const char [7], int)'
+  
+C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\main.cpp(55,67): error C2039: 'getMovieName': is not a member of 'Screening'
+  C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\Screening.h(4,7):
+  see declaration of 'Screening'
+  
+C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\main.cpp(56,94): error C2039: 'getMovieName': is not a member of 'Screening'
+  C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\Screening.h(4,7):
+  see declaration of 'Screening'
+  
+  Screening.cpp
+C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\Screening.h(7,12): error C2061: syntax error: identifier 'string'
+  (compiling source file 'Screening.cpp')
+  
+C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\Screening.h(9,20): error C2061: syntax error: identifier 'string'
+  (compiling source file 'Screening.cpp')
+  
+C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\Screening.h(12,9): error C3646: 'getMovieName': unknown override specifier
+  (compiling source file 'Screening.cpp')
+  
+C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\Screening.h(12,21): error C2059: syntax error: '('
+  (compiling source file 'Screening.cpp')
+  
+C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\Screening.h(12,23): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Screening.cpp')
+  
+C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\Screening.h(19,9): error C3646: 'movieName': unknown override specifier
+  (compiling source file 'Screening.cpp')
+  
+C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\Screening.h(19,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Screening.cpp')
+  
+C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\Screening.cpp(5,12): error C2511: 'Screening::Screening(std::string,int)': overloaded member function not found in 'Screening'
+  C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\Screening.h(4,7):
+  see declaration of 'Screening'
+  
+C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\Screening.cpp(6,2): error C2660: 'Screening::setMovieName': function does not take 1 arguments
+  C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\Screening.h(9,7):
+  see declaration of 'Screening::setMovieName'
+  C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\Screening.cpp(6,2):
+  while trying to match the argument list '(std::string)'
+  
+C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\Screening.cpp(7,2): error C2352: 'Screening::setSoldTickets': a call of a non-static member function requires an object
+  C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\Screening.h(10,7):
+  see declaration of 'Screening::setSoldTickets'
+  
+C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\Screening.cpp(10,17): error C2511: 'void Screening::setMovieName(std::string)': overloaded member function not found in 'Screening'
+  C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\Screening.h(4,7):
+  see declaration of 'Screening'
+  
+C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\Screening.cpp(12,3): error C2671: 'Screening::setMovieName': static member functions do not have 'this' pointers
+C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\Screening.cpp(15,3): error C2671: 'Screening::setMovieName': static member functions do not have 'this' pointers
+C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\Screening.cpp(29,24): error C2039: 'getMovieName': is not a member of 'Screening'
+  C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\Screening.h(4,7):
+  see declaration of 'Screening'
+  
+C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\Screening.cpp(30,9): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\Screening.cpp(39,12): error C2039: 'getMovieName': is not a member of 'Screening'
+  C:\Users\Veni\Documents\ProjectsGit\Cinema\Cinema\Screening.h(4,7):
+  see declaration of 'Screening'
+  
+  Generating Code...
