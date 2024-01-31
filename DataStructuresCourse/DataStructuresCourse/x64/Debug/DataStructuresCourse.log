@@ -1,4 +1,0 @@
-﻿  DataStructuresCourse.cpp
-C:\Users\Veni\source\repos\DataStructuresCourse\DataStructuresCourse\DataStructuresCourse.cpp(217,24): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\Veni\source\repos\DataStructuresCourse\DataStructuresCourse\DataStructuresCourse.cpp(223,25): warning C4305: '=': truncation from 'double' to 'float'
-  DataStructuresCourse.vcxproj -> C:\Users\Veni\source\repos\DataStructuresCourse\x64\Debug\DataStructuresCourse.exe
