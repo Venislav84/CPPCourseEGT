@@ -1,4 +1,0 @@
-﻿  ClientData.cpp
-C:\Users\Veni\source\repos\ClientData\ClientData\ClientData.cpp(40,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Veni\source\repos\ClientData\ClientData\ClientData.cpp(57,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  ClientData.vcxproj -> C:\Users\Veni\source\repos\ClientData\x64\Debug\ClientData.exe
